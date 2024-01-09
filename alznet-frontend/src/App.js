@@ -5,6 +5,7 @@ import { Routes, Route } from "react-router-dom";
 import Topbar from "./scenes/global/Topbar";
 import Sidebar from "./scenes/global/Sidebar";
 import Dashboard from "./scenes/dashboard";
+import Model from "./scenes/model";
 /* import Bar from "./scenes/bar";
 import Form from "./scenes/form";
 import Line from "./scenes/line";
